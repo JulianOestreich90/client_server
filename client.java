@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 /**
  * Client zum Empfangen von Wetterdaten
  * 
- * @author Julian Oestreich jo87casi@studserv.uni-leipzig.de
+ * @author Julian Oestreich
  */
 public class client {
     /**
