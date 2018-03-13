@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 /**
  * Server zum Versenden von Wetterdaten
  * 
- * @author Julian Oestreich jo87casi@studserv.uni-leipzig.de
+ * @author Julian Oestreich 
  */
 public class server {
     /**
